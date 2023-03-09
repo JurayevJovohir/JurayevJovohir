@@ -5,7 +5,7 @@
 ### Languages and Tools 
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 ![Javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
-![Javascript](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/iamjurayev)
