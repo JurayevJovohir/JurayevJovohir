@@ -3,9 +3,16 @@
 ## I'm junior Web Developer 
 
 ### Languages and Tools 
+![Html](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
+![Css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass)
 ![Javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
+![Vscode](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=visualstudio)
+![](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![React](https://img.shields.io/badge/-talwind-090909?style=for-the-badge&logo=tailwindcss)
+
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/iamjurayev)
