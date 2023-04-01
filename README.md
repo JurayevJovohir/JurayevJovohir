@@ -2,7 +2,7 @@
 
 ## I'm junior Web Developer 
 
-### Languages and Tools 
+### Languagegits and Tools 
 ![Vscode](https://img.shields.io/badge/-vscode-090909?style=for-the-badge&logo=visualstudio)
 ![Html](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=css3)
@@ -20,5 +20,7 @@
 [![Facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100064247725771)
 [![VK](https://img.shields.io/badge/-ВКонтакте-090909?style=for-the-badge&logo=vk&logoColor=3375F6)](https://vk.com/id757564752)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurayevjovohir&layout=compact)](https://github.com/jurayevjovohir/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurayevjovohir&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark)
+
+
 
